@@ -23,6 +23,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="decoratorDesignPattern" />
+        <module name="factoryDesignPattern" />
         <module name="observerDesignPattern" />
         <module name="strategyDesignPattern" />
       </profile>
