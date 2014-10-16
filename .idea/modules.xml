@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/decoratorDesignPattern/decoratorDesignPattern.iml" filepath="$PROJECT_DIR$/decoratorDesignPattern/decoratorDesignPattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/factoryDesignPattern/factoryDesignPattern.iml" filepath="$PROJECT_DIR$/factoryDesignPattern/factoryDesignPattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/observerDesignPattern/observerDesignPattern.iml" filepath="$PROJECT_DIR$/observerDesignPattern/observerDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adapter/adapter.iml" filepath="$PROJECT_DIR$/adapter/adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/command/command.iml" filepath="$PROJECT_DIR$/command/command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/composite/composite.iml" filepath="$PROJECT_DIR$/composite/composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decorator/decorator.iml" filepath="$PROJECT_DIR$/decorator/decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facade/facade.iml" filepath="$PROJECT_DIR$/facade/facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factory/factory.iml" filepath="$PROJECT_DIR$/factory/factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iterator/iterator.iml" filepath="$PROJECT_DIR$/iterator/iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observer/observer.iml" filepath="$PROJECT_DIR$/observer/observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/patterns.iml" filepath="$PROJECT_DIR$/patterns.iml" />
-      <module fileurl="file://$PROJECT_DIR$/strategyDesignPattern/strategyDesignPattern.iml" filepath="$PROJECT_DIR$/strategyDesignPattern/strategyDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strategy/strategy.iml" filepath="$PROJECT_DIR$/strategy/strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/templateMethod/templateMethod.iml" filepath="$PROJECT_DIR$/templateMethod/templateMethod.iml" />
     </modules>
   </component>
 </project>

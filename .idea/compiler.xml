@@ -22,10 +22,24 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="adapter" />
+        <module name="adapterDesignPattern" />
+        <module name="command" />
+        <module name="commandDesignPattern" />
+        <module name="composite" />
+        <module name="decorator" />
         <module name="decoratorDesignPattern" />
+        <module name="facade" />
+        <module name="facadeDesignPattern" />
+        <module name="factory" />
         <module name="factoryDesignPattern" />
+        <module name="iterator" />
+        <module name="observer" />
         <module name="observerDesignPattern" />
+        <module name="strategy" />
         <module name="strategyDesignPattern" />
+        <module name="templateMethod" />
+        <module name="templateMethodPattern" />
       </profile>
     </annotationProcessing>
   </component>
