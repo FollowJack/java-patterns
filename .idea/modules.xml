@@ -5,13 +5,18 @@
       <module fileurl="file://$PROJECT_DIR$/adapter/adapter.iml" filepath="$PROJECT_DIR$/adapter/adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/command/command.iml" filepath="$PROJECT_DIR$/command/command.iml" />
       <module fileurl="file://$PROJECT_DIR$/composite/composite.iml" filepath="$PROJECT_DIR$/composite/composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compoundPatterns/compoundPatterns.iml" filepath="$PROJECT_DIR$/compoundPatterns/compoundPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/decorator/decorator.iml" filepath="$PROJECT_DIR$/decorator/decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/facade/facade.iml" filepath="$PROJECT_DIR$/facade/facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory/factory.iml" filepath="$PROJECT_DIR$/factory/factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/iterator/iterator.iml" filepath="$PROJECT_DIR$/iterator/iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/observer/observer.iml" filepath="$PROJECT_DIR$/observer/observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/patterns.iml" filepath="$PROJECT_DIR$/patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy/proxy.iml" filepath="$PROJECT_DIR$/proxy/proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state/state.iml" filepath="$PROJECT_DIR$/state/state.iml" />
       <module fileurl="file://$PROJECT_DIR$/strategy/strategy.iml" filepath="$PROJECT_DIR$/strategy/strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compoundPatterns/strategy/compoundPatterns/strategy.iml" filepath="$PROJECT_DIR$/compoundPatterns/strategy/compoundPatterns/strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compoundPatterns/strategy/strategy (1).iml" filepath="$PROJECT_DIR$/compoundPatterns/strategy/strategy (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/templateMethod/templateMethod.iml" filepath="$PROJECT_DIR$/templateMethod/templateMethod.iml" />
     </modules>
   </component>
